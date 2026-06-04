@@ -1,0 +1,7 @@
+falcon:
+  cid: "XXXXXXXXXXXXXXXX"
+
+node:
+  image:
+    repository: us-west1-docker.pkg.dev/project-name/crowdstrike-test/falcon-sensor
+    tag: latest

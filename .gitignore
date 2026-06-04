@@ -1,0 +1,1 @@
+*.pem *.key *.json .env terraform.tfstate *.tfvars .DS_Store .idea/ .vscode/
