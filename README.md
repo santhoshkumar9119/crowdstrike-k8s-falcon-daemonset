@@ -1,11 +1,9 @@
 # CrowdStrike-Falcon-Sensor-Deployment-on-Kubernetes-using-DaemonSet
-```md
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Ready-blue?logo=kubernetes)
 ![Helm](https://img.shields.io/badge/Helm-Deployment-blue?logo=helm)
 ![Cloud Security](https://img.shields.io/badge/Security-Enterprise-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platforms-EKS%20%7C%20AKS%20%7C%20GKE-orange)
-```
 
 Enterprise-grade CrowdStrike Falcon Sensor deployment for Kubernetes using DaemonSet across EKS, AKS, and GKE with centralized Artifact Registry integration.
 
